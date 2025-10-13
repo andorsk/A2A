@@ -4,7 +4,13 @@
         "ee361c8de935f845e472c3553f559442fb2a4c9ed4f0": {
             "name": "sample_store",
             "description": "",
-            "policies": {},
+            "policies": {
+                "395304f329b0f93df8c61798a98908ca686a9ca6c6e9": {
+                    "description": "Describe the policy here",
+                    "creation_date": "2025-10-13T04:34:09.746190",
+                    "policy_content": "QGlkKCJEZXNjcmliZSB0aGUgcG9saWN5IGhlcmUiKQpwZXJtaXQgKAogIHByaW5jaXBhbCwKICBhY3Rpb24sCiAgcmVzb3VyY2UKKTs="
+                }
+            },
             "trusted_issuers": {
                 "b6640e584747ab11e7c228e0e7f2ce75824c11682e4d": {
                     "name": "issuer_name",
